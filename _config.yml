@@ -1,31 +1,31 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Juan Miguel Alferez
+title: Software Developer
+email: juanalferez8@gmail.com
+website: https://github.com/0Z4ru/0Z4ru.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  0Z4ru
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: 0z4ru_
+linkedin_username: juan-miguel-alferez-lopez-7741a327a
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
