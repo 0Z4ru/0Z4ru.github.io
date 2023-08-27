@@ -33,7 +33,7 @@ linkedin_username: juan-miguel-alferez-lopez-7741a327a
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://github.com/0Z4ru/0Z4ru.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -58,33 +58,38 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/0Z4ru
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/0Z4ru
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started my path as a developer at <mark>Cakephp</mark> and from there I started to grow with basic web programming tools like <mark>HTML, PHP and Node.js</mark> ,until now I am still learning to develop mobile applications in <mark>Flutter</mark> in my spare time. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Wbox
+        link: http://bizbox.mx/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Web Developer
+        caption: May 2022 - June 2023
+        title: Almex
+        link: https://www.almidones.com.mx/
+        # link_text: boringcompany.com
+        sub_title: infrastructure scholarship
+        caption: June 2023 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Backend experience, I have developed several cruds, among the most popular: for a financial company (Element Five), for a therapeutic school (Floral Lake), a serious game-type desktop application for understanding ADHD, a video game for desktop as theme the superhero arrow, develop 2 web pages one type ecommerce drag and drop, and the other api type as theme the popular anime series pokemon, help maintain the pages: hoyfaturo.com and waydata.cloud
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
